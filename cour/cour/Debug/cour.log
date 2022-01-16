@@ -1,0 +1,25 @@
+﻿  Source (1).c
+C:\Users\Артём\Downloads\Source (1).c(87,18): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Артём\Downloads\Source (1).c(273,12): warning C4098: step_by_step: функция типа "void", возвращающая значение
+C:\Users\Артём\Downloads\Source (1).c(295,206): warning C4020: out_rule: слишком много фактических параметров
+C:\Users\Артём\Downloads\Source (1).c(344,48): warning C4020: out_rule: слишком много фактических параметров
+C:\Users\Артём\Downloads\Source (1).c(346,53): warning C4020: out_rule: слишком много фактических параметров
+C:\Users\Артём\Downloads\Source (1).c(408,19): warning C4098: minus: функция типа "void", возвращающая значение
+C:\Users\Артём\Downloads\Source (1).c(431,19): warning C4098: plus: функция типа "void", возвращающая значение
+C:\Users\Артём\Downloads\Source (1).c(536,1): warning C4029: объявленный список формальных параметров отличается от объявления
+C:\Users\Артём\Downloads\Source (1).c(565,20): warning C4552: "<": результат выражения не используется
+C:\Users\Артём\Downloads\Source (1).c(580,20): warning C4552: "<": результат выражения не используется
+C:\Users\Артём\Downloads\Source (1).c(612,20): warning C4552: "<": результат выражения не используется
+C:\Users\Артём\Downloads\Source (1).c(627,20): warning C4552: "<": результат выражения не используется
+C:\Users\Артём\Downloads\Source (1).c(745,24): warning C4133: =: несовместимые типы - из "Element *" в "Leafs *"
+C:\Users\Артём\Downloads\Source (1).c(746,25): warning C4133: =: несовместимые типы - из "Element *" в "Leafs *"
+C:\Users\Артём\Downloads\Source (1).c(747,23): warning C4133: =: несовместимые типы - из "Element *" в "Leafs *"
+C:\Users\Артём\Downloads\Source (1).c(859,29): warning C4020: move_el: слишком много фактических параметров
+C:\Users\Артём\Downloads\Source (1).c(876,12): warning C4098: AI: функция типа "void", возвращающая значение
+C:\Users\Артём\Downloads\Source (1).c(1060,12): warning C4098: AI_W: функция типа "void", возвращающая значение
+C:\Users\Артём\Downloads\Source (1).c(1299,38): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Артём\Downloads\Source (1).c(1315,40): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Артём\Downloads\Source (1).c(1344,1): warning C4029: объявленный список формальных параметров отличается от объявления
+C:\Users\Артём\Downloads\Source (1).c(595): warning C4715: out_rule: значение возвращается не при всех путях выполнения
+C:\Users\Артём\Downloads\Source (1).c(642): warning C4715: out_rule_w: значение возвращается не при всех путях выполнения
+  cour.vcxproj -> C:\Users\Артём\Desktop\Project\cour\Debug\cour.exe
